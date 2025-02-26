@@ -5,7 +5,6 @@
   [![Downloads](https://img.shields.io/badge/Downloads-3.3k+-blue?style=for-the-badge)](#)
   [![Rating](https://img.shields.io/badge/Rating-5/5%20⭐-gold?style=for-the-badge)](#)
   [![Version](https://img.shields.io/badge/Version-1.9-green?style=for-the-badge)](#)
-  [![License](https://img.shields.io/badge/LicenseMIT?style=for-the-badge)](#)
   
 </div>
 
